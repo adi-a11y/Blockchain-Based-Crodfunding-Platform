@@ -1,4 +1,4 @@
-This project addressed the issue of crowdfunding campaigns, which is, Investors have no control over their investment so the owner of the campaign may misuse the funds.
+This project has addressed the issue of crowdfunding campaigns, which is, Investors have no control over their investment so the owner of the campaign may misuse the funds.
 
 In this platform, the owner has to make a request to spend the money specifying the cause. Investors get to vote on it. Only if the request gets enough approval, Owner gets to spend the money for the cause.
 
